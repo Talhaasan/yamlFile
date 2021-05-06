@@ -1,0 +1,7 @@
+User: UserX
+Database: DatabaseX
+Port: 1234
+Server: 127.0.0.1
+Settings:
+  - Settings 1
+  - Settings 2
